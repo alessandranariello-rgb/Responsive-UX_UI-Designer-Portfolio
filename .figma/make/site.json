@@ -1,0 +1,11 @@
+{
+  "title": "Alessandra Nariello — UX/UI Designer Portfolio",
+  "description": "Showcases a junior UX/UI designer's portfolio highlighting her unique transition from jewelry craftsmanship to digital design with detailed projects and skills.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
